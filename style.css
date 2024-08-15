@@ -1,0 +1,11 @@
+img{
+    width: 50%;
+}
+body{
+    background-color: rgb(163, 161, 161);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+input{
+    background-color: black;
+    color: aliceblue;
+}
